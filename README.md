@@ -18,3 +18,9 @@ Visualisation of top five dangerous streets in NYC
 [Image of number of distribution of collisions] (/images/4.png)
 
 [Image of number of distribution of collisions] (/images/5.png)
+
+To Run application:
+
+Download dependencies: pip install -r requirements.txt
+
+Run app: streamlit run crash.py
