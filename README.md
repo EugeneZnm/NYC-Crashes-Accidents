@@ -7,17 +7,17 @@ A visualisation of crashes and accidents in new york city showing:
 
 Visualisation of number of people injured across the five boroughs
 
-![Image of number of injuries] (/images/1.png)
+![Image of number of injuries] (../master/images/1.png)
 
 Visualisation of distribution of collisions across every hour of the day
 
-[Image of number of distribution of collisions] (/images/3.png)
+[Image of number of distribution of collisions] (../master/images/3.png)
 
 Visualisation of top five dangerous streets in NYC
 
-[Image of number of distribution of collisions] (/images/4.png)
+[Image of number of distribution of collisions] (../master/images/4.png)
 
-[Image of number of distribution of collisions] (/images/5.png)
+[Image of number of distribution of collisions] (../master/images/5.png)
 
 To Run application:
 
