@@ -1,0 +1,5 @@
+streamlit==0.59.0
+plotly==4.5.4
+pandas==1.0.3
+numpy==1.18.2
+pydeck==0.3.1
